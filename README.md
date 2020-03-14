@@ -1,0 +1,2 @@
+# yosimoto-log
+yosimoto　log
